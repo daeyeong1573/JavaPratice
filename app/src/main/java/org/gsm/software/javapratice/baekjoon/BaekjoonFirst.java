@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 // 5의수난 문제
-public class BaekjoonOne {
+public class BaekjoonFirst {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
