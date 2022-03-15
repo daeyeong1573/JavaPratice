@@ -1,4 +1,4 @@
-package org.gsm.software.javapratice.baekjoon;
+package org.gsm.software.javapratice.baekjoon.silver;
 
 import java.util.*;
 
